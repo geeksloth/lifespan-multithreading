@@ -1,5 +1,5 @@
-# python-multithreading-examples
-Simple Python multithreading examples
+# Lifespan: A Multithreading template
+A simple example of Multithreading programming. This is a template for ones who want to start programming multithreading in Python.
 
 `lifespan.py` result screenshot:
 
